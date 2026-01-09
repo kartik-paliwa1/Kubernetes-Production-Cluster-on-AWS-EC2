@@ -1,6 +1,11 @@
 # Kubernetes-Production-Cluster-on-AWS-EC2
 
 
+
+https://github.com/user-attachments/assets/7e4037e1-c333-4500-9e5f-ae82092df688
+
+
+
 ## Overview
 This project shows how to build a real Kubernetes cluster from zero on AWS EC2.
 The goal is to understand how Kubernetes works internally by setting up everything manually, the same way platform and DevOps teams do in real companies.
